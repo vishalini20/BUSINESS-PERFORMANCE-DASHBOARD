@@ -9,35 +9,19 @@ The objective of this dashboard is to transform raw sales data into meaningful b
 
 🛠️ Tools Used
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Conditional Formatting
-Data Cleaning & Transformation
-Excel Formulas
-
-📂 Dataset
-
-The dataset contains sales transaction records including:
-
-Order ID
-Customer Details
-Gender
-Age Group
-Product Category
-Sales Amount
-Quantity
-Sales Channel
-Order Status
-State
-Month
+-Microsoft Excel
+-Pivot Tables
+-Pivot Charts
+-Slicers
+-Conditional Formatting
+-Data Cleaning & Transformation
+-Excel Formulas
 
 📈 Key Metrics
 
-Total Sales Revenue
-Total Customers
-Average Sales Revenue
+-Total Sales Revenue
+-Total Customers
+-Average Sales Revenue
 
 📊 Dashboard Features
 
@@ -60,17 +44,17 @@ Helps understand target customer demographics and buying behavior.
 
 🎛️ Interactive Filters (Slicers)
 
-Sales Channel Filter
-Product Category Filter
-Age Group Filter
+-Sales Channel Filter
+-Product Category Filter
+-Age Group Filter
 
 💡 Skills Demonstrated
 
-Excel Dashboard Development
-Data Cleaning
-Data Analysis
-Business Intelligence
-Data Visualization
-Pivot Tables & Pivot Charts
-Interactive Reporting
-Insight Generation
+-Excel Dashboard Development
+-Data Cleaning
+-Data Analysis
+-Business Intelligence
+-Data Visualization
+-Pivot Tables & Pivot Charts
+-Interactive Reporting
+-Insight Generation
