@@ -6,7 +6,9 @@ This project presents an interactive Business Performance Dashboard developed in
 🎯 Objective
 
 The objective of this dashboard is to transform raw sales data into meaningful business insights that help stakeholders monitor performance, identify trends, and make data-driven decisions.
+
 🛠️ Tools Used
+
 Microsoft Excel
 Pivot Tables
 Pivot Charts
@@ -14,6 +16,7 @@ Slicers
 Conditional Formatting
 Data Cleaning & Transformation
 Excel Formulas
+
 📂 Dataset
 
 The dataset contains sales transaction records including:
@@ -31,11 +34,13 @@ State
 Month
 
 📈 Key Metrics
+
 Total Sales Revenue
 Total Customers
 Average Sales Revenue
 
 📊 Dashboard Features
+
 1. Monthly Sales by Channel
 Visualizes sales contribution across different sales channels.
 Channels analyzed include Amazon, Flipkart, Myntra, Meesho, Ajio, Nalli, and Others.
@@ -54,11 +59,13 @@ Segments customers into Adult, Senior, and Teenager categories.
 Helps understand target customer demographics and buying behavior.
 
 🎛️ Interactive Filters (Slicers)
+
 Sales Channel Filter
 Product Category Filter
 Age Group Filter
 
 💡 Skills Demonstrated
+
 Excel Dashboard Development
 Data Cleaning
 Data Analysis
